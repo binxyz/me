@@ -13,7 +13,7 @@
 ## 技能清单
 ***
 * Web开发：PHP/Html/JavaScript/Jquery
-* Web框架：Laravel/ThinkPHP/Yii/CodeIgniter
+* Web框架：Laravel/ThinkPHP
 * 数据库相关：MySQL/PDO
 * 版本管理和自动化部署工具：Svn/Git/Composer
 * 缓存：Redis/Memecached
